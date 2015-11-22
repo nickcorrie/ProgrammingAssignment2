@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions create a cached version of a matrix for computing
+## the inverse of the matrix using the solve function
 
 ## create a list with a matrix and set/get methods
 ## if the list already exists return it
